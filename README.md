@@ -146,7 +146,7 @@ while(player):
 
 # Output:
 
-![alt text](image.png)
+<img width="420" height="903" alt="image" src="https://github.com/user-attachments/assets/9bb2fa15-f542-4b64-987a-95be5c88de84" />
 
 # Result:
 Thus the program was executed successfully.
